@@ -155,3 +155,43 @@ nav{
 }
 
 /* review area end */
+
+/* newsletter area start */
+.newsletter-area{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 150px;
+}
+.newsletter-title{
+  width: 570px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.newsletter-form{
+  width: 570px;
+  display: block;
+ 
+}
+.newsletter-form p{
+  font-weight: 500;
+  margin-top: 5px;
+}
+.newsletter-form input{
+  padding: 5px 370px 5px 5px;
+  border-radius: 5px;
+  border: 1px solid #D6DDED;
+  margin: 10px 0;
+  
+}
+.newsletter-form textarea{
+  padding: 5px 320px 50px 5px;
+  margin: 10px 0;
+  border: 1px solid #D6DDED;
+}
+.submit-btn{
+  padding: 15px 230px;
+  margin: 20px 0;
+  font-weight: normal;
+}
+/* newsletter area end */
