@@ -43,6 +43,7 @@ nav{
   font-weight: bold;
   font-size: 16px;
 }
+/* banner area start */
 .banner{
  text-align: center;
  margin-top: 100px;
@@ -54,3 +55,31 @@ nav{
 .banner a button{
   margin-top: 30px;
 }
+/* header area end */
+
+/* action area start */
+.action-area{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 150px;
+}
+.action-content h3{
+  font-weight: bold;
+  color: #252432;
+  font-size: 24px;
+}
+.action-content p{
+  color: rgba(37, 36, 50, 50%);
+  margin: 20px 0;
+}
+.action-content a button{
+  font-weight: bold;
+  font-size: 16px;
+}
+.action-img img{
+  border-radius: 20px;
+}
+/* action area end */
+
+
