@@ -82,4 +82,33 @@ nav{
 }
 /* action area end */
 
-
+/* productive area start */
+.productive-area{
+  background-color: #E5E7FF;
+  display: block;
+  margin: 50px 150px;
+  border-radius: 20px;
+  padding: 50px;
+}
+.productive-title{
+  font-weight: 600;
+  font-size: 22px;
+  text-align: center;
+  color: #252432;
+}
+.productive-points{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+  text-align: center;
+}
+.productive-points h1{
+  color: #4E47FF;
+}
+.productive-points h1 span{
+  font-size: 16px;
+  color: rgba(37, 36, 50, 50%);
+  font-weight: normal;
+}
+/* productive area end */
